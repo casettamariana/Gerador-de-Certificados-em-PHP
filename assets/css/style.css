@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+form {
+  display: flex;
+  flex-direction: column;
+}
+form * {
+  padding: 2vh;
+  margin: 1vh;
+  border-radius: 15px;
+  border: 2px solid teal;
+}
+button {
+  background-color: teal;
+  color: white;
+  font-weight: bold;
+  border: none;
+}

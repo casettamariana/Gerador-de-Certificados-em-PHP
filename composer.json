@@ -1,0 +1,12 @@
+{
+    "name": "mariana-ca/certificados-php",
+    "authors": [
+        {
+            "name": "Mariana Casetta",
+            "email": "casettamariana.ufg@gmail.com"
+        }
+    ],
+    "require": {
+        "mpdf/mpdf": "^8.0"
+    }
+}

@@ -1,0 +1,7 @@
+PASSO A PASSO PARA EXECUTAR ESTE REPOSITÓRIO EM SUA MÁQUINA 
+
+[] baixar as dependências do arquivo 'package.json' com 'npm install'
+[] descompactar o arquivo zip 'node_modules\jQuery-Mask-Plugin-master.zip'
+[] necessita-se que obtenha o composer na sua máquina, ou no seu projeto, para baixar só seguir este passo a passo 'https://getcomposer.org/doc/00-intro.md'
+[] ao instalar o composer ou caso já o tenha instalado, executar no terminal os comandos de instalação de depêndências  do arquivo 'composer.json' com 'composer install'
+[] agora rode
