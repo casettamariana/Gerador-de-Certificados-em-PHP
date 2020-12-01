@@ -15,7 +15,7 @@
 </head>
 <body>
   
-  <form id="form" name="form" method="POST" action="server-mPdf-version-php7.php">
+  <form id="form" name="form" method="POST" action="gerar-certificado.php">
     <input type="text" name="cpf" id="cpf" maxlength="14">
 
     <button type="submit" id="buttonCertificado">Gerar Certificado</button>
